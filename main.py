@@ -50,4 +50,5 @@ wrong_button.grid(column=1, row=1)
 
 
 # Run App
+next_card()
 app.mainloop()
